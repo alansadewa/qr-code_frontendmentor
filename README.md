@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Vercel : https://qr-code-frontendmentor-theta.vercel.app
 
 ## My process
 
@@ -32,5 +32,5 @@ After I finished this challenge, I got something new, like the HSL method. I wil
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@alansadewa](https://www.frontendmentor.io/profile/alansadewa)
 
