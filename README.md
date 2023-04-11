@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - I use the box-shadow property for the card
 
 ### What I learned
-After I finished this challenge, I got something new, like the HSL method. I will learn about it further more.
+After I finished this challenge, I got something new, like the HSL method. I will learn about it further.
 
 
 ## Author
